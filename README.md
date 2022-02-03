@@ -2,4 +2,4 @@
 - 👀 I’m interested in show and learn data problems and how to solve they.
 - 🌱 I’m currently learning Python, SQL and any 'Data tool' that can help solve problems as Data Scientist.
 - 💞️ I’m looking to collaborate on anything i can learn something new or help to solve a question.
-- 📫 To reach me just send me a menssage on my linkedin : www.linkedin.com/in/paulodshamaral.
+- 📫 To reach me just send a menssage on my linkedin : www.linkedin.com/in/paulodshamaral.
